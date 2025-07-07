@@ -11,6 +11,7 @@
 #include <sys/un.h>
 #include <pwd.h>
 #include <errno.h>
+#include <time.h>
 #include "sock.h"
 #include "internal.h"
 
